@@ -1,102 +1,191 @@
-<h1 align="center">Hi 👋, I'm Devadi Prudhvi</h1>
-<h3 align="center">Full-Stack Developer | B.Tech Information Technology, GMR Institute of Technology</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/prudhvi-devadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:prudhvidevadi94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/prudhvi45-D" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devadi%20Prudhvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20React%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://linkedin.com/in/prudhvi-devadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:prudhvidevadi94@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/prudhvi45-D" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=prudhvi45-D&style=for-the-badge&color=6366f1" alt="profile views"/>
 
-### 🚀 About Me
-- 🎓 B.Tech in Information Technology at **GMR Institute of Technology** (9.37 CGPA)
-- 💻 Full-stack developer skilled in **Java, Spring Boot, React.js, Node.js, Express.js**
-- ☁️ Hands-on experience with **AWS (EC2, S3, Lambda)** and cloud deployment
-- 🧩 Solved **500+ programming problems** across DSA and competitive programming platforms
-- 🌱 Currently exploring **AI-assisted development tools** (Cursor, Lovable, Bolt, Antigravity)
-- 🎯 Seeking an **entry-level Software Developer / Full-Stack Developer** role
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=B.Tech+IT+%40+GMR+Institute+of+Technology+(9.37+CGPA);Building+scalable+full-stack+web+applications;500%2B+DSA+problems+solved+%7C+Open+to+SDE+roles" alt="Typing SVG" />
 
-### 🛠️ Tech Stack
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```javascript
+const prudhvi = {
+    role: "Full-Stack Developer",
+    education: "B.Tech Information Technology, GMR Institute of Technology (9.37 CGPA)",
+    location: "Andhra Pradesh, India",
+    stack: ["Java", "Spring Boot", "React.js", "Node.js", "Express.js", "MongoDB", "AWS"],
+    currentlyExploring: ["AI-assisted dev tools", "Cursor", "Lovable", "Bolt"],
+    funFact: "Solved 500+ DSA problems and still counting 🔥",
+    lookingFor: "Entry-level Software Developer / Full-Stack roles"
+};
+```
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
 
-**Web Development**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+**Frontend & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,spring&theme=dark" />
 
 **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Cloud, DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode&theme=dark" />
 
----
+</div>
 
-### 💼 Experience
+<br/>
 
-**Java Full Stack Developer Intern** — ByteXL, GMRIT-Rajam · *Jul 2025 – Nov 2025*
-- Built full-stack web apps using Java (backend) and React.js (frontend)
-- Designed relational databases in SQL for efficient data handling
-- Built responsive UIs and integrated RESTful APIs
+## 💼 Experience Timeline
 
-**AWS Technology Intern** — Hashtek Solutions · *Jun 2024 – Jul 2024*
-- Deployed and managed cloud infrastructure using EC2, S3, and Lambda
-- Automated workflows and monitored performance via AWS dashboards
+<table>
+<tr>
+<td width="140" valign="top"><b>Jul – Nov 2025</b></td>
+<td>
+<b>Java Full Stack Developer Intern</b> · ByteXL, GMRIT-Rajam<br/>
+<sub>
+• Built full-stack apps using Java (backend) + React.js (frontend)<br/>
+• Designed relational DB schemas in SQL for efficient data handling<br/>
+• Built responsive UIs and integrated RESTful APIs
+</sub>
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><b>Jun – Jul 2024</b></td>
+<td>
+<b>AWS Technology Intern</b> · Hashtek Solutions<br/>
+<sub>
+• Deployed & managed cloud infra using EC2, S3, and Lambda<br/>
+• Automated workflows and monitored performance via AWS dashboards
+</sub>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-#### 🌾 [Kisan Mitra](https://github.com/prudhvi45-D)
-*MERN Stack · Socket.io · AI/ML*
-A farmer–buyer digital marketplace for crop listings and discovery, with AI-based crop quality analysis, real-time chat via Socket.io, and market price insights.
+<div align="center">
 
-#### 🎓 [QuerySync](https://github.com/prudhvi45-D/query-sync)
-*MongoDB · Express.js · Node.js · EJS · Nodemailer*
-A student–senior query resolution platform with authentication, event registration, and automated email notifications, deployed on Render with MongoDB Atlas.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌾 Kisan Mitra
+**MERN · Socket.io · AI/ML**
 
-### 🏆 Achievements
-- 🥇 Winner — Techno Hunt Coding Challenge
-- 🥇 Winner — Webathon Web Development Competition
-- 📈 500+ problems solved across DSA & competitive programming platforms
+Farmer–buyer digital marketplace with AI-based crop quality analysis, real-time chat, and market price insights.
 
-### 📜 Certifications
+`MongoDB` `Express` `React` `Node.js` `Socket.io`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 QuerySync
+**MongoDB · Express · Node · EJS**
+
+Student–senior query resolution platform with auth, event registration, and automated email notifications via Nodemailer, deployed on Render.
+
+`MongoDB Atlas` `EJS` `Nodemailer` `Render`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> 💡 Update the project links below once pushed to GitHub — currently linking to your existing repos as placeholders.
+
+<div align="center">
+
+[![QuerySync](https://github-readme-stats.vercel.app/api/pin/?username=prudhvi45-D&repo=query-sync&theme=dark&hide_border=true)](https://github.com/prudhvi45-D/query-sync)
+[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=prudhvi45-D&repo=spotify-clone&theme=dark&hide_border=true)](https://github.com/prudhvi45-D/spotify-clone)
+
+</div>
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 Achievements**
+- Winner — Techno Hunt Coding Challenge
+- Winner — Webathon Web Development Competition
+- 500+ problems solved (DSA & competitive programming)
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
 - Introduction to Core Java
 - MERN Stack Development — Apna College
 - Data Structures and Algorithms — Apna College
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prudhvi45-D&show_icons=true&theme=default" alt="Prudhvi's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvi45-D" alt="Prudhvi's GitHub streak" height="165"/>
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi45-D&layout=compact" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prudhvi45-D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvi45-D&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi45-D&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prudhvi45-D&theme=tokyo-night&hide_border=true" height="165"/>
+</div>
 
-<p align="center">📫 Reach me at <b>prudhvidevadi94@gmail.com</b> or <a href="https://linkedin.com/in/prudhvi-devadi">LinkedIn</a></p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prudhvi45-D&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+<!--
+  🐍 CONTRIBUTION SNAKE — requires one-time GitHub Actions setup.
+  See setup instructions below the file. Once configured, this animates
+  your contribution graph as a snake eating your commits.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/prudhvi45-D/prudhvi45-D/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="https://linkedin.com/in/prudhvi-devadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prudhvidevadi94@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
