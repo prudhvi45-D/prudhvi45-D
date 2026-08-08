@@ -1,194 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devadi%20Prudhvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20-%20React%20-%20Spring%20Boot%20-%20AWS&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://linkedin.com/in/prudhvi-devadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:prudhvidevadi94@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/prudhvi45-D" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=prudhvi45-D&style=for-the-badge&color=6366f1" alt="profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devadi%20Prudhvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=B.Tech+IT+%40+GMR+Institute+of+Technology+(9.37+CGPA);Building+scalable+full-stack+web+applications;500%2B+DSA+problems+solved+%7C+Open+to+SDE+roles" alt="Typing SVG" />
+<a href="https://linkedin.com/in/prudhvi-devadi">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:prudhvidevadi94@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/prudhvi45-D">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=prudhvi45-D&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=B.Tech+IT+%40+GMR+Institute+of+Technology+%7C+9.37+CGPA;Building+scalable+full-stack+web+applications;500%2B+DSA+problems+solved+%7C+Open+to+SDE+opportunities" alt="Typing SVG"/>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const prudhvi = {
-  role: "Full-Stack Developer",
-  education: "B.Tech IT, GMR Institute of Technology (9.37 CGPA)",
-  location: "Andhra Pradesh, India",
-  stack: [
-    "Java", "Spring Boot", "React.js",
-    "Node.js", "Express.js", "MongoDB", "AWS"
-  ],
-  exploring: ["Cursor", "Lovable", "Bolt", "AI dev tools"],
-  funFact: "Solved 500+ DSA problems and still counting",
-  lookingFor: "Entry-level Software Developer / Full-Stack roles"
+    name: "Devadi Prudhvi",
+    role: "Full-Stack Developer",
+    education: "B.Tech in Information Technology",
+    college: "GMR Institute of Technology",
+    cgpa: "9.37",
+    location: "Andhra Pradesh, India",
+
+    coreStack: [
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "SQL",
+        "AWS"
+    ],
+
+    interests: [
+        "Full-Stack Development",
+        "Backend Development",
+        "Cloud Computing",
+        "REST API Development",
+        "Problem Solving"
+    ],
+
+    achievements: [
+        "500+ DSA problems solved",
+        "Winner - Techno Hunt Coding Challenge",
+        "Winner - Webathon Web Development Competition"
+    ],
+
+    currentlyLookingFor:
+        "Entry-level Software Developer / Full-Stack Developer opportunities"
 };
 ```
 
-<br/>
+---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
 
-**Frontend & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,spring&theme=dark" />
+### 🎨 Frontend
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-**Cloud, DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode&theme=dark" />
+### ⚙️ Backend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
 
-<br/>
+### 🗄️ Databases
 
-## 💼 Experience Timeline
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" />
+</p>
+
+---
+
+## 💼 Experience
 
 <table>
 <tr>
-<td width="140" valign="top"><b>Jul – Nov 2025</b></td>
+<td width="160"><b>Jul 2025 – Nov 2025</b></td>
 <td>
-<b>Java Full Stack Developer Intern</b> - ByteXL, GMRIT-Rajam<br/>
-<sub>
-• Built full-stack apps using Java (backend) + React.js (frontend)<br/>
-• Designed relational DB schemas in SQL for efficient data handling<br/>
-• Built responsive UIs and integrated RESTful APIs
-</sub>
+
+<b>Java Full Stack Developer Intern — ByteXL</b><br/> <sub>GMRIT, Rajam</sub>
+
+<br/><br/>
+
+• Developed full-stack web applications using <b>Java</b> and <b>React.js</b>.<br/>
+• Designed and managed relational databases using <b>SQL</b>.<br/>
+• Built responsive interfaces and integrated <b>RESTful APIs</b>.<br/>
+• Collaborated in an <b>Agile</b> development environment through code reviews and sprint planning.
+
 </td>
 </tr>
+
 <tr>
-<td width="140" valign="top"><b>Jun – Jul 2024</b></td>
+<td><b>Jun 2024 – Jul 2024</b></td>
 <td>
-<b>AWS Technology Intern</b> - Hashtek Solutions<br/>
-<sub>
-• Deployed & managed cloud infra using EC2, S3, and Lambda<br/>
-• Automated workflows and monitored performance via AWS dashboards
-</sub>
+
+<b>AWS Technology Intern — Hashtek Solutions</b><br/> <sub>Visakhapatnam, India</sub>
+
+<br/><br/>
+
+• Worked with <b>AWS EC2, S3, and Lambda</b> for cloud infrastructure and deployment.<br/>
+• Automated workflows and monitored system performance using AWS dashboards and cloud management tools.
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🌟 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌾 Kisan Mitra
-**MERN - Socket.io - AI/ML**
+<h3>🌾 Kisan Mitra</h3>
 
-Farmer–buyer digital marketplace with AI-based crop quality analysis, real-time chat, and market price insights.
+<b>MERN Stack · Socket.io · AI/ML</b>
 
-`MongoDB` `Express` `React` `Node.js` `Socket.io`
+<br/><br/>
+
+A farmer–buyer digital marketplace designed to connect farmers with buyers through crop listings, product discovery, market insights, and real-time communication.
+
+<b>Key Features</b>
+
+* 🌱 Crop listing and product discovery
+* 🤖 AI-based crop quality analysis
+* 💬 Real-time farmer–buyer chat
+* 📊 Market price insights
+* 👤 Farmer profile management
+
+<br/>
+
+<b>Technologies</b>
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Socket.io`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎓 QuerySync
-**MongoDB - Express - Node - EJS**
+<h3>🎓 QuerySync</h3>
 
-Student–senior query resolution platform with auth, event registration, and automated email notifications via Nodemailer, deployed on Render.
+<b>MongoDB · Express.js · Node.js · EJS</b>
 
-`MongoDB Atlas` `EJS` `Nodemailer` `Render`
+<br/><br/>
+
+A student–senior query resolution platform that connects students with seniors and alumni for academic guidance and support.
+
+<b>Key Features</b>
+
+* 🔐 User authentication
+* ❓ Query posting and management
+* 🎫 Event registration
+* 👤 Profile management
+* 📧 Automated email notifications
+* ☁️ Cloud database and deployment
+
+<br/>
+
+<b>Technologies</b>
+
+`MongoDB Atlas` `Express.js` `Node.js` `EJS` `Nodemailer` `Render`
 
 </td>
+
 </tr>
 </table>
 
-</div>
+---
 
-> 💡 Update the project links below once pushed to GitHub — currently linking to your existing repos as placeholders.
+## 🏆 Achievements
 
 <div align="center">
 
-[![QuerySync](https://github-readme-stats.vercel.app/api/pin/?username=prudhvi45-D&repo=query-sync&theme=dark&hide_border=true)](https://github.com/prudhvi45-D/query-sync)
-[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=prudhvi45-D&repo=spotify-clone&theme=dark&hide_border=true)](https://github.com/prudhvi45-D/spotify-clone)
+| Achievement                             |        Recognition       |
+| :-------------------------------------- | :----------------------: |
+| 🥇 Techno Hunt Coding Challenge         |        **Winner**        |
+| 🥇 Webathon Web Development Competition |        **Winner**        |
+| 💻 Competitive Programming & DSA        | **500+ Problems Solved** |
 
 </div>
 
-<br/>
+---
 
-## 🏆 Achievements & Certifications
+## 📜 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+* **Introduction to Core Java**
+* **MERN Stack Development** — Apna College
+* **Data Structures and Algorithms** — Apna College
 
-**🥇 Achievements**
-- Winner — Techno Hunt Coding Challenge
-- Winner — Webathon Web Development Competition
-- 500+ problems solved (DSA & competitive programming)
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-- Introduction to Core Java
-- MERN Stack Development — Apna College
-- Data Structures and Algorithms — Apna College
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=prudhvi45-D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvi45-D&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
+<br/>
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhvi45-D&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prudhvi45-D&theme=tokyo-night&hide_border=true" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prudhvi45-D&theme=tokyonight&no-frame=true&row=1&column=6" height="165"/>
+
 </div>
 
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prudhvi45-D&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prudhvi45-D&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
 </div>
 
-<br/>
+---
 
-<!--
-  🐍 CONTRIBUTION SNAKE — requires one-time GitHub Actions setup.
-  See setup instructions below the file. Once configured, this animates
-  your contribution graph as a snake eating your commits.
--->
+## 🐍 Contribution Snake
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/prudhvi45-D/prudhvi45-D/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/prudhvi45-D/prudhvi45-D/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
 </div>
 
-<br/>
-
-<div align="center">
+---
 
 ## 📫 Let's Connect
 
-<a href="https://linkedin.com/in/prudhvi-devadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:prudhvidevadi94@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/prudhvi-devadi">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prudhvidevadi94@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prudhvi45-D">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<b>Open to Software Developer & Full-Stack Developer opportunities 🚀</b>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
