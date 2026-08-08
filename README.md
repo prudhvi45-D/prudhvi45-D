@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devadi%20Prudhvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20React%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devadi%20Prudhvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20-%20React%20-%20Spring%20Boot%20-%20AWS&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/prudhvi-devadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:prudhvidevadi94@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,13 +19,16 @@
 
 ```javascript
 const prudhvi = {
-    role: "Full-Stack Developer",
-    education: "B.Tech Information Technology, GMR Institute of Technology (9.37 CGPA)",
-    location: "Andhra Pradesh, India",
-    stack: ["Java", "Spring Boot", "React.js", "Node.js", "Express.js", "MongoDB", "AWS"],
-    currentlyExploring: ["AI-assisted dev tools", "Cursor", "Lovable", "Bolt"],
-    funFact: "Solved 500+ DSA problems and still counting 🔥",
-    lookingFor: "Entry-level Software Developer / Full-Stack roles"
+  role: "Full-Stack Developer",
+  education: "B.Tech IT, GMR Institute of Technology (9.37 CGPA)",
+  location: "Andhra Pradesh, India",
+  stack: [
+    "Java", "Spring Boot", "React.js",
+    "Node.js", "Express.js", "MongoDB", "AWS"
+  ],
+  exploring: ["Cursor", "Lovable", "Bolt", "AI dev tools"],
+  funFact: "Solved 500+ DSA problems and still counting",
+  lookingFor: "Entry-level Software Developer / Full-Stack roles"
 };
 ```
 
@@ -61,7 +64,7 @@ const prudhvi = {
 <tr>
 <td width="140" valign="top"><b>Jul – Nov 2025</b></td>
 <td>
-<b>Java Full Stack Developer Intern</b> · ByteXL, GMRIT-Rajam<br/>
+<b>Java Full Stack Developer Intern</b> - ByteXL, GMRIT-Rajam<br/>
 <sub>
 • Built full-stack apps using Java (backend) + React.js (frontend)<br/>
 • Designed relational DB schemas in SQL for efficient data handling<br/>
@@ -72,7 +75,7 @@ const prudhvi = {
 <tr>
 <td width="140" valign="top"><b>Jun – Jul 2024</b></td>
 <td>
-<b>AWS Technology Intern</b> · Hashtek Solutions<br/>
+<b>AWS Technology Intern</b> - Hashtek Solutions<br/>
 <sub>
 • Deployed & managed cloud infra using EC2, S3, and Lambda<br/>
 • Automated workflows and monitored performance via AWS dashboards
@@ -92,7 +95,7 @@ const prudhvi = {
 <td width="50%" valign="top">
 
 ### 🌾 Kisan Mitra
-**MERN · Socket.io · AI/ML**
+**MERN - Socket.io - AI/ML**
 
 Farmer–buyer digital marketplace with AI-based crop quality analysis, real-time chat, and market price insights.
 
@@ -102,7 +105,7 @@ Farmer–buyer digital marketplace with AI-based crop quality analysis, real-tim
 <td width="50%" valign="top">
 
 ### 🎓 QuerySync
-**MongoDB · Express · Node · EJS**
+**MongoDB - Express - Node - EJS**
 
 Student–senior query resolution platform with auth, event registration, and automated email notifications via Nodemailer, deployed on Render.
 
