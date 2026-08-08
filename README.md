@@ -1,3 +1,5 @@
+# Devadi Prudhvi GitHub Profile README
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Devadi%20Prudhvi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Spring%20Boot%20%7C%20AWS&descAlignY=60&descSize=18" width="100%"/>
@@ -25,45 +27,26 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const prudhvi = {
-    name: "Devadi Prudhvi",
-    role: "Full-Stack Developer",
-    education: "B.Tech in Information Technology",
-    college: "GMR Institute of Technology",
-    cgpa: "9.37",
-    location: "Andhra Pradesh, India",
+Hi! I'm **Devadi Prudhvi**, a **Full-Stack Developer** and B.Tech graduate in **Information Technology** from **GMR Institute of Technology**, with a **9.37 CGPA**.
 
-    coreStack: [
-        "Java",
-        "Spring Boot",
-        "React.js",
-        "JavaScript",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "SQL",
-        "AWS"
-    ],
+I enjoy building **scalable web applications**, developing backend services, integrating REST APIs, and working with modern cloud technologies.
 
-    interests: [
-        "Full-Stack Development",
-        "Backend Development",
-        "Cloud Computing",
-        "REST API Development",
-        "Problem Solving"
-    ],
+### 🔹 What I Work With
 
-    achievements: [
-        "500+ DSA problems solved",
-        "Winner - Techno Hunt Coding Challenge",
-        "Winner - Webathon Web Development Competition"
-    ],
+* **Languages:** Java, JavaScript, Python, C, SQL
+* **Frontend:** React.js, HTML, CSS, Tailwind CSS
+* **Backend:** Node.js, Express.js, Spring, Spring Boot, REST APIs
+* **Databases:** MongoDB, MySQL
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+* **Tools:** Git, GitHub, Postman, VS Code
 
-    currentlyLookingFor:
-        "Entry-level Software Developer / Full-Stack Developer opportunities"
-};
-```
+### 🎯 Currently
+
+* 💻 Building full-stack web applications
+* 🧩 Solved **500+ DSA and competitive programming problems**
+* 🏆 Winner of **Techno Hunt Coding Challenge**
+* 🏆 Winner of **Webathon Web Development Competition**
+* 🚀 Looking for **entry-level Software Developer / Full-Stack Developer opportunities**
 
 ---
 
@@ -112,10 +95,10 @@ const prudhvi = {
 
 <br/><br/>
 
-• Developed full-stack web applications using <b>Java</b> and <b>React.js</b>.<br/>
-• Designed and managed relational databases using <b>SQL</b>.<br/>
-• Built responsive interfaces and integrated <b>RESTful APIs</b>.<br/>
-• Collaborated in an <b>Agile</b> development environment through code reviews and sprint planning.
+* Developed full-stack web applications using **Java** and **React.js**.
+* Designed and managed relational databases using **SQL**.
+* Built responsive interfaces and integrated **RESTful APIs**.
+* Collaborated in an **Agile** development environment.
 
 </td>
 </tr>
@@ -128,8 +111,8 @@ const prudhvi = {
 
 <br/><br/>
 
-• Worked with <b>AWS EC2, S3, and Lambda</b> for cloud infrastructure and deployment.<br/>
-• Automated workflows and monitored system performance using AWS dashboards and cloud management tools.
+* Worked with **AWS EC2, S3, and Lambda**.
+* Automated workflows and monitored cloud infrastructure using AWS dashboards.
 
 </td>
 </tr>
@@ -144,25 +127,13 @@ const prudhvi = {
 
 <td width="50%" valign="top">
 
-<h3>🌾 Kisan Mitra</h3>
+### 🌾 Kisan Mitra
 
-<b>MERN Stack · Socket.io · AI/ML</b>
+**MERN Stack · Socket.io · AI/ML**
 
-<br/><br/>
+A farmer–buyer digital marketplace featuring crop listings, AI-based crop quality analysis, real-time chat, and market insights.
 
-A farmer–buyer digital marketplace designed to connect farmers with buyers through crop listings, product discovery, market insights, and real-time communication.
-
-<b>Key Features</b>
-
-* 🌱 Crop listing and product discovery
-* 🤖 AI-based crop quality analysis
-* 💬 Real-time farmer–buyer chat
-* 📊 Market price insights
-* 👤 Farmer profile management
-
-<br/>
-
-<b>Technologies</b>
+**Technologies**
 
 `MongoDB` `Express.js` `React.js` `Node.js` `Socket.io`
 
@@ -170,26 +141,13 @@ A farmer–buyer digital marketplace designed to connect farmers with buyers thr
 
 <td width="50%" valign="top">
 
-<h3>🎓 QuerySync</h3>
+### 🎓 QuerySync
 
-<b>MongoDB · Express.js · Node.js · EJS</b>
+**MongoDB · Express.js · Node.js · EJS**
 
-<br/><br/>
+A student–senior query resolution platform with authentication, event registration, automated email notifications, MongoDB Atlas, and Render deployment.
 
-A student–senior query resolution platform that connects students with seniors and alumni for academic guidance and support.
-
-<b>Key Features</b>
-
-* 🔐 User authentication
-* ❓ Query posting and management
-* 🎫 Event registration
-* 👤 Profile management
-* 📧 Automated email notifications
-* ☁️ Cloud database and deployment
-
-<br/>
-
-<b>Technologies</b>
+**Technologies**
 
 `MongoDB Atlas` `Express.js` `Node.js` `EJS` `Nodemailer` `Render`
 
@@ -202,23 +160,19 @@ A student–senior query resolution platform that connects students with seniors
 
 ## 🏆 Achievements
 
-<div align="center">
-
-| Achievement                             |        Recognition       |
-| :-------------------------------------- | :----------------------: |
-| 🥇 Techno Hunt Coding Challenge         |        **Winner**        |
-| 🥇 Webathon Web Development Competition |        **Winner**        |
-| 💻 Competitive Programming & DSA        | **500+ Problems Solved** |
-
-</div>
+| Achievement                             | Recognition              |
+| --------------------------------------- | ------------------------ |
+| 🥇 Techno Hunt Coding Challenge         | **Winner**               |
+| 🥇 Webathon Web Development Competition | **Winner**               |
+| 💻 DSA & Competitive Programming        | **500+ Problems Solved** |
 
 ---
 
 ## 📜 Certifications
 
-* **Introduction to Core Java**
-* **MERN Stack Development** — Apna College
-* **Data Structures and Algorithms** — Apna College
+* Introduction to Core Java
+* MERN Stack Development — Apna College
+* Data Structures and Algorithms — Apna College
 
 ---
 
@@ -282,7 +236,7 @@ A student–senior query resolution platform that connects students with seniors
 
 <br/><br/>
 
-<b>Open to Software Developer & Full-Stack Developer opportunities 🚀</b>
+**Open to Software Developer & Full-Stack Developer opportunities 🚀**
 
 </div>
 
